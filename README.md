@@ -13,3 +13,6 @@ My name is Lauren Flournoy. My role in the project is that i am the UI/UX Design
 ## group members
 - Lauryn D. - Project Manager/ Lead Developer
 - Cameron H. -Assistant Developer/QA Tester
+
+
+
