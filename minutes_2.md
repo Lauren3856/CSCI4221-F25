@@ -11,7 +11,7 @@
 
 ---
 
-## 2. UI/UX Designer Role (Your Position)
+## 2. UI/UX Designer Role 
 **Responsible:** *UI/UX Designer*
 
 ### Key Responsibilities:
