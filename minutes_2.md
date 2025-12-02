@@ -6,7 +6,7 @@
 ---
 
 ## 1. Project Overview
-- The team is developing a mobile application aimed at **[insert purpose]**.
+- The team is developing a mobile application aimed at making a universal scanner app.
 - Main priority: deliver a clean, intuitive, user-friendly interface supported by consistent design standards.
 
 ---
